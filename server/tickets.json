@@ -1,0 +1,64 @@
+{
+    "ticketsData": [
+        {
+            "first_name": "Katharine",
+            "last_name": "Hess",
+            "email": "khess0@icio.us",
+            "gender": "Female"
+        },
+        {
+            "first_name": "Elva",
+            "last_name": "Tasker",
+            "email": "etasker1@ucla.edu",
+            "gender": "Polygender"
+        },
+        {
+            "first_name": "Decca",
+            "last_name": "Curthoys",
+            "email": "dcurthoys2@sitemeter.com",
+            "gender": "Male"
+        },
+        {
+            "first_name": "Reeva",
+            "last_name": "Beeze",
+            "email": "rbeeze3@loc.gov",
+            "gender": "Female"
+        },
+        {
+            "first_name": "Alvin",
+            "last_name": "Domanek",
+            "email": "adomanek4@addtoany.com",
+            "gender": "Male"
+        },
+        {
+            "first_name": "Parke",
+            "last_name": "Cianni",
+            "email": "pcianni5@indiatimes.com",
+            "gender": "Male"
+        },
+        {
+            "first_name": "Adaline",
+            "last_name": "Jills",
+            "email": "ajills6@mit.edu",
+            "gender": "Female"
+        },
+        {
+            "first_name": "Halsy",
+            "last_name": "Muldoon",
+            "email": "hmuldoon7@pinterest.com",
+            "gender": "Male"
+        },
+        {
+            "first_name": "Quincey",
+            "last_name": "Siehard",
+            "email": "qsiehard8@wisc.edu",
+            "gender": "Male"
+        },
+        {
+            "first_name": "Francis",
+            "last_name": "Reiling",
+            "email": "freiling9@webs.com",
+            "gender": "Male"
+        }
+    ]
+}
